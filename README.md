@@ -6,7 +6,7 @@ Data Analyst -
 
 
 Team Members & Roles:
-Hafsah Bala: 
+Hafsah Bala: Coder
 Youssef Eshak:
 Zaire Fulmore:
 Flavy Kum Akwa:
