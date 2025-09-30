@@ -1,2 +1,2 @@
 Project Manager - 
-Data Analysist - 
+Data Analyst - 
