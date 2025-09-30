@@ -1,4 +1,4 @@
-Project Name:
+Project Name: Online Banking System
 
 
 Project Manager - 
