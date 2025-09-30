@@ -1,9 +1,6 @@
 Project Name: Online Banking System
 
 
-Project Manager - 
-Data Analyst - 
-
 
 Team Members & Roles:
 Hafsah Bala: Coder
