@@ -1,4 +1,4 @@
-FROM eclipse-temurin:latest
+FROM eclipse-temurin:23
 WORKDIR /app
 COPY src/ /app/
 RUN javac *.java
