@@ -1,4 +1,4 @@
-FROM eclipse-temurin:21
+FROM openjdk:23
 WORKDIR /app
 COPY src/ /app/
 RUN javac *.java
