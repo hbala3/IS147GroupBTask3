@@ -1,4 +1,4 @@
-FROM eclipse-temurin:21-jdk-slim
+FROM amazoncorretto:latest
 WORKDIR /app
 COPY src/ /app/
 RUN javac *.java
