@@ -11,4 +11,4 @@ COPY out/production/IS-147GroupB/ /app
 WORKDIR /app
 
 # Run the Main class
-CMD ["java", "Main"]
+CMD ["java", "HelloWorld"]
