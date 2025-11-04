@@ -19,4 +19,3 @@ jobs:
       - name: Push Docker Image
         run: docker push ${{ secrets.DOCKER_USERNAME }}/is147:${{ github.run_number }}
 
-grep -R "openjdk" .github/workflows
