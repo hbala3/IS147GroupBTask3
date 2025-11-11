@@ -46,4 +46,4 @@ Our project uses Docker to create a consistent and portable environment for buil
 
 Group Project Task 5: Use of JavaDocs
 
-In our project, JavaDocs are used to provide clear and structured documentation for all classes and methods that make up our Banking System. They describe what each part of the system does--such as creating accounts, depositing money, withdrawing funds, and checking balances.JavaDocs makes the system easier to maintain, update, and extend in the future.
+In our project, JavaDocs are used to provide clear and structured documentation for all classes and methods that make up our Banking System. They describe what each part of the system does--such as creating accounts, depositing money, withdrawing funds, and checking balances. JavaDocs makes the system easier to maintain, update, and extend in the future.
