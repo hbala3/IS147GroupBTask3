@@ -14,7 +14,7 @@ Our project is an online banking system which aims to solve the problem of ineff
 
 
 
-Pseudocode Task 2
+Group Project Task 2: Pseudocode
 
 Start
 Ask user to enter a password
