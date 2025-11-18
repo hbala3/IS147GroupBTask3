@@ -3,6 +3,9 @@
  * It prints simple welcome messages to the console.
  */
 public class Main {
+     /**
+     * The main method is the starting point of the Java program.
+     */
     public static void main(String[] args) {
         System.out.println("Hello, Docker & Java!");
         System.out.println("IS147 GroupB");
